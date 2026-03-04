@@ -5,7 +5,7 @@ description: OLHW 5
 images: assets/Screenshot 2026-03-03 215653.png
 ---
 
-Find: The goal of this assignment is to desing a nutcracker that can crack a macademia nut using a lever. To do so, it's necessary to find the lever dimensions, so that the necessary amount fo force to crack the nut can be generated.
+Find: The goal of this assignment is to design a nutcracker that can crack a macademia nut using a lever. To do so, it's necessary to find the lever dimensions, so that the necessary amount of force to crack the nut can be generated.
 Given: 
   Avg macadamia nut diameter: 20mm
   Grip stregth: 300 N
@@ -23,10 +23,10 @@ Approach:
       MA = 2180 / 300 = 7.27 
         --> the lever must prove 7.27 times the force 
 Diagram:
-
+  Refer to image above for design. 
 Usability: 
   Though this design is feasible mechanically, the usability is questionable for several reasons including but not limited to: 
     1. The lever arm must be unrealistically long to generate enough force
-    2. The nut  must be clsoe to the pivot
-    3. If the users grip strength si too low, thye won't be able to generate enough force 
+    2. The nut  must be close to the pivot
+    3. If the users grip strength is too small, they won't be able to generate enough force 
 
