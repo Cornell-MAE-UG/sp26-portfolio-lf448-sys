@@ -30,3 +30,5 @@ Usability:
     2. The nut  must be close to the pivot
     3. If the users grip strength is too small, they won't be able to generate enough force 
 
+---
+
