@@ -21,4 +21,21 @@ Assumptions:
 ### Calculations / Thought Process
 
 1. Moment balance about the pivot
+ Sum Mp = 0
+      Fout(0.02) - Fgrip(x) = 0
+      2180(0.02) = 300x
+      x = 0.144m
+2. Mechanical advantage
+   MA = Fout / Fin
+MA = 2180 / 300 = 7.27
+→ The lever must provide **7.27× mechanical advantage**
 
+## Diagram
+Refer to image above for design.
+
+## Usability
+Though this design is mechanically feasible, the usability is questionable:
+
+1. The lever arm must be unrealistically long to generate enough force  
+2. The nut must be placed very close to the pivot  
+3. If the user’s grip strength is too small, they will not generate enough force
