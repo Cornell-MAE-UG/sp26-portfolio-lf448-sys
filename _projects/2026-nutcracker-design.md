@@ -2,7 +2,7 @@
 layout: project
 title: Nut Cracker Design
 description: OLHW 5
-images:"{{ '/assets/nutcracker-design.png' | relative_url }}"
+images: "{{ '/assets/nutcracker-design.png' | relative_url }}"
 --- 
 
 ![Nutcracker design]({{ '/assets/nutcracker-design.png' | relative_url }})
