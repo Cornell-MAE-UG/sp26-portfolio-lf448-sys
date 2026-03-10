@@ -2,10 +2,10 @@
 layout: project
 title: Nut Cracker Design
 description: OLHW 5
-images: assets/images/nutcracker-design.png
+images: assets/nutcracker-design.png
 --- 
 
-![Nutcracker design](/assets/images/nutcracker-design.png)
+![Nutcracker design](assets/nutcracker-design.png)
 
 ## Find
 The goal of this assignment is to design a nutcracker that can crack a macadamia nut using a lever. To do so, it's necessary to find the lever dimensions so that the necessary amount of force to crack the nut can be generated.
