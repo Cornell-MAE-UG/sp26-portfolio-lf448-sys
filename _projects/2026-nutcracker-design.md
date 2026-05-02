@@ -21,8 +21,8 @@ The goal of this assignment is to modify the original nutcracker design by treat
 
 ## Approach
 Assumptions:
-- The nhandle is effectively a cantilever beam fixed at the pivot
-- The nut froce, and actuator force act transverse to the beam
+- The handle is effectively a cantilever beam fixed at the pivot
+- The nut force, and actuator force act transverse to the beam
 - The actuator pushes down at the end of the handle and the nut pushes upwards
 - Beam material behaves elastically
 - There is no friction
