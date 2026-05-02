@@ -2,10 +2,10 @@
 layout: project
 title: Nut Cracker Design
 description: OLHW 5
-images: "{{ '/assets/nutcracker-design.png' | relative_url }}"
+images: "{{ 'assets/images/updated-nutcracker' | relative_url }}" 
 --- 
 
-![Nutcracker design]({{ '/assets/nutcracker-design.png' | relative_url }})
+![Nutcracker design]({{ 'assets/images/updated-nutcracker' | relative_url }})
 
 ## Find
 The goal of this assignment is to modify the original nutcracker design by treating the handles as flexible beams, rather than rigid members. Now, the handles bend under the force from the nut and the linear actuator, so we msut find where the maximum beam deflection occurs and pcik a design that will limit the deflection to less than two percent of the handle length. 
